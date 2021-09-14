@@ -45,7 +45,7 @@ section:nth-of-type(3) {
 
 section p {
   color: hsla(0, 0%, 100%, 0.75);
-  width: 14rem;
+  width: /*14rem*/ 225px;
 }
 
 button {
