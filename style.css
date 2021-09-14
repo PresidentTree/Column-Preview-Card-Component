@@ -16,12 +16,15 @@ main {
   display: flex;
   width: min-content;
   min-height: 29rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
 }
 
-h1 {
+h2 {
   font-family: "Big Shoulders Display";
   color: hsl(0, 0%, 95%);
   font-size: 2rem;
+  text-transform: uppercase;
 }
 
 section {
@@ -35,7 +38,6 @@ section {
 
 section:nth-of-type(1) {
   background-color: hsl(31, 77%, 52%);
-  border-radius: 0.5rem 0 0 0.5rem;
 }
 
 section:nth-of-type(2) {
@@ -44,7 +46,6 @@ section:nth-of-type(2) {
 
 section:nth-of-type(3) {
   background-color: hsl(179, 100%, 13%);
-  border-radius: 0 0.5rem 0.5rem 0;
 }
 
 section p {
@@ -114,14 +115,6 @@ a {
 
   section {
     min-height: 23rem;
-  }
-
-  section:nth-of-type(1) {
-    border-radius: 0.5rem 0.5rem 0 0;
-  }
-
-  section:nth-of-type(3) {
-    border-radius: 0 0 0.5rem 0.5rem;
   }
 
   footer {
