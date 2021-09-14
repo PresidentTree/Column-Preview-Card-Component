@@ -1,6 +1,9 @@
 # Column-Preview-Card-Component
 My solution to Frontend Mentor's 3-Column Preview Card Component challenge.
 
+![Desktop Calculator](https://raw.githubusercontent.com/PresidentTree/Single-Price-Grid-Component/main/Grid%20Component%201.jpeg)
+![Mobile Calculator](https://raw.githubusercontent.com/PresidentTree/Single-Price-Grid-Component/main/Grid%20Component%202.jpeg)
+
 ## Challenge
 Users should be able to:
 
